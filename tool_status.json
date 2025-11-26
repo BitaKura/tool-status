@@ -1,1 +1,7 @@
-
+{
+    "enabled": false,
+    "message": "Tool disabled for maintenance. Please wait for update.",
+    "important_message": "Critical security update in progress",
+    "maintenance_until": "2024-12-25T18:00:00Z",
+    "contact": "@admin_telegram"
+}
