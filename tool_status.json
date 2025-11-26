@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": false,
     "message": "Tool disabled for maintenance",
     "important_message": "",
     "maintenance_until": "",
