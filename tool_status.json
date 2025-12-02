@@ -1,6 +1,6 @@
 {
     "enabled": false,
-    "message": "Tool disabled for maintenance",
+    "message": "Tool is disabled permanently",
     "important_message": "",
     "maintenance_until": "",
     "contact": "@Bitaelectro"
