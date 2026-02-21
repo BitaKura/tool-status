@@ -1,7 +1,12 @@
 {
     "enabled": true,
-    "message": "Tool is disabled permanently",
-    "important_message": "",
-    "maintenance_until": "",
-    "contact": "@Bitaelectro"
+    "message": "🔥 KURA TOOL v2.0 - SERVER CONTROLLED",
+    "time_limit_minutes": 400,
+    "device_extensions": {
+        "DEVICE_ID_HERE": 120,
+        "ANOTHER_DEVICE_ID": 60
+    },
+    "device_resets": [
+        "DEVICE_ID_TO_RESET"
+    ]
 }
