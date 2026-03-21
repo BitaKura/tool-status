@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": false,
     "message": "🔥 KURA TOOL v2.0 - SERVER CONTROLLED",
     "time_limit_minutes": 400,
     "device_extensions": {
